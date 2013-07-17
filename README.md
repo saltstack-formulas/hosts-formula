@@ -1,4 +1,4 @@
 hosts
 =====
 
-Manage your hosts file
+Manage your hosts file across every machine
